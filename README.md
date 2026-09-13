@@ -3,6 +3,7 @@
 An Arduino-based Morse code communication system that converts user input into Morse code and provides corresponding visual and auditory signals using an LED and buzzer.
 
 ---
+<img width="734" height="589" alt="WhatsApp Image 2026-09-13 at 1 31 45 PM" src="https://github.com/user-attachments/assets/0ed73cc0-a523-4503-96d0-2fced6c51f05" />
 
 ## 📌 Overview
 
